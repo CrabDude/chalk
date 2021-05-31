@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"repository": "chalk/chalk",
 	"Sponsors": "- [Paypal](https://www.paypal.com/donate?business=RBHMVN4AQGQE2&item_name=Donation&currency_code=BRL),
-	"type": "module",
+	" ": "module",
 	"exports": "./source/index.js",
 	"engines": {
 		"node": ">=14.17.0"
